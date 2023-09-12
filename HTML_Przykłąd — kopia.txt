@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+      <html lang="pl-PL">
+      <html>
+               <head>
+<h1> Burakowski </h1><br>
+<h2> Burakowski </h2><br>
+<h3> Burakowski </h3><br>
+<h4> Burakowski </h4><br>
+<h5> Burakowski </h5><br>
+<h6> Burakowski </h6><br>
+               </head>
+                <body>
+<p align="right"> <font color="blue" size="1" face="Arial"> Kacper </font> </p> <br>
+<p align="right"> <font color="blue" size="2" face="Arial"> Kacper </font> </p> <br>
+<p align="right"> <font color="blue" size="3" face="Arial"> Kacper </font> </p> <br>
+<p align="right"> <font color="blue" size="4" face="Arial"> Kacper </font> </p> <br>
+<p align="right"> <font color="blue" size="5" face="Arial"> Kacper </font> </p> <br>
+<p align="right"> <font color="blue" size="6" face="Arial"> Kacper </font> </p> <br>
+<p align="right"> <font color="blue" size="7" face="Arial"> Kacper </font> </p> <br>
+                </body>
+         </html>
